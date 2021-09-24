@@ -1,0 +1,9 @@
+{
+    "colorScheme": "Campbell",
+    "commandline": "powershell.exe -NoExit -Command Import-Module posh-git; Import-Module oh-my-posh; Set-PoshPrompt -Theme C:\\code-repos\\pl-theme\\custom.omp.json",
+    "fontFace": "CascadiaCode Nerd Font",
+    "guid": "{}",
+    "hidden": false,
+    "name": "PowerLine",
+    "startingDirectory": "C:\\code-repos"
+}
